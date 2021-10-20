@@ -1,0 +1,1 @@
+This is a basic FizzBuzz application and some practice with Git and GitHub.
